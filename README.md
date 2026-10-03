@@ -102,7 +102,7 @@ Streamlit • Git • GitHub • Joblib
 
 📍 Riyadh, Saudi Arabia  
 📧 **Email:** shathanaelmansour@gmail.com  
-💼 **LinkedIn:** Add your LinkedIn URL here
+💼 **LinkedIn:**[linkedin](https://www.linkedin.com/in/shatha-nael-50b560366/)
 
 ---
 
